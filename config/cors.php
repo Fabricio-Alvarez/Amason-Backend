@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => [env('https://amason-store.vercel.app'),
+    'allowed_origins' => [env('https://amason-store.vercel.app')],
 
     'allowed_origins_patterns' => [],
 
