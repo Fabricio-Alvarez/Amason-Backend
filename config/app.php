@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://amason-backend-production.up.railway.app:8000'),
+    'url' => env('APP_URL', 'https://amason-backend-production.up.railway.app'),
 
     'frontend_url' => env('FRONTEND_URL', 'https://amason-store.vercel.app'),
 
